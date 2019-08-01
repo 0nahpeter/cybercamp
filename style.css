@@ -1,0 +1,42 @@
+body {
+    background-color:  blue;
+}
+
+h1 {
+    color: rgb(230, 36, 36);
+    text-align: center;
+}
+h2{
+    color:brown
+}
+h3{
+    color:yellow
+}
+h4{
+    color:gold
+}
+h5{
+    
+}
+p{
+   font-family: Arial;
+   font-size: 20px 
+}
+
+a{
+    color: green;
+
+}
+input{
+    margin: 1em
+}
+
+Assignment{
+    background-color: aqua
+}
+h1{
+    color:purple
+}
+h2{
+    color:grey
+}
